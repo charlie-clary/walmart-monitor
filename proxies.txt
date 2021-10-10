@@ -1,0 +1,3 @@
+user:pass or ip auth proxies
+ip:port
+ip:port:user:pass
